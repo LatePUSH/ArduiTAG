@@ -34,4 +34,4 @@ ArduiTAG is a local tracking system prototype inspired by Apple AirTags. It uses
 3. At the top of Xcode, select your physical iPhone as the target (instead of the simulator).
 4. Run the application (Play button).
 
-> **Note:** The app will ask for *Bluetooth* and *Location* permissions on the first launch. These are mandatory to detect the board and drop the pin on the map!
+> **Note:** The app will ask for *Bluetooth* and *Location* permissions on the first launch. These are mandatory to detect the board and drop the pin on the map ! 
